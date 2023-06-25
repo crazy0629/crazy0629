@@ -97,7 +97,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/milan-jansen/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/c9s" target="_blank">
+<!-- <a href="https://twitter.com/c9s" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/c9s" target="_blank">
@@ -112,11 +112,11 @@ Here are some ideas to get you started:
 <a href="https://c9s.medium.com" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
-</div>
+</div> -->
 
 <br/>
 
-## Github Stats
+<!-- ## Github Stats
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=c9s&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
@@ -124,7 +124,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=c9s&&style=flat-square" align="center" />
-</div>
+</div> -->
 
 ---
 
